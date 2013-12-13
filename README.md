@@ -3,6 +3,8 @@ AFMobilePayRequestHandler
 
 Send and request money via [Danske Banks MobilePay app](http://www.danskebank.dk/da-dk/privat/selvbetjening/produkter/pages/mobilepay.aspx)
 
+This class makes use of MobilePays URL schemes.
+
 ## Methods
 
 Check if MobilePay is installed on device.
