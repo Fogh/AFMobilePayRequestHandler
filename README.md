@@ -6,7 +6,7 @@ Send and request money via [Danske Banks MobilePay app](http://www.danskebank.dk
 This class makes use of MobilePays URL schemes.
 
 ## NB!
-The URL schemes used in this class seems to have been changed/removed in version 1.2.0 of MobilePay, which makes this class broken!
+The URL schemes used in this class seems to have been changed/removed in version 1.2.0 of MobilePay, which makes this class broken! I have talked to Danske Bank and they said that they are planning on implementing the URL schemes in a later version. 
 
 
 ## Methods
