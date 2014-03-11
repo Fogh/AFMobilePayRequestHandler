@@ -1,7 +1,9 @@
 AFMobilePayRequestHandler
 =======================
 
-Send and request money via [Danske Banks MobilePay app](http://www.danskebank.dk/da-dk/privat/selvbetjening/produkter/pages/mobilepay.aspx) - [AppStore](https://itunes.apple.com/dk/app/mobilepay-by-danske-bank/id624499138)
+Send and request money via [Danske Banks MobilePay app](http://www.danskebank.dk/da-dk/privat/selvbetjening/produkter/pages/mobilepay.aspx) 
+
+[AppStore link](https://itunes.apple.com/dk/app/mobilepay-by-danske-bank/id624499138)
 
 This class makes use of MobilePays URL schemes.
 
