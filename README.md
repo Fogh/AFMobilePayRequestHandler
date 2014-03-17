@@ -12,7 +12,7 @@ This class makes use of MobilePays URL schemes.
 
 Requires iOS 5+ since that is what MobilePay requires.
 
-__NB! The handing of the URL scheme actions can be a bit buggy. Danske Bank has said that they don't official support the URL schemes yet.__
+__NB! Danske Bank has said that they don't official support the URL schemes yet.__
 
 
 ## Methods
