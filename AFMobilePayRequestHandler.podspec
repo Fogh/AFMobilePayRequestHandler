@@ -9,4 +9,5 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '5.0'
   s.source_files = 'AFMobilePayRequestHandler/*.{h,m}'
   s.requires_arc = true
+  s.social_media_url = 'https://twitter.com/f0gh'
 end
