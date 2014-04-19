@@ -11,9 +11,9 @@
 
 static NSString *const kURL = @"mobilepay://";
 
-+ (NSURL *)mobilePayURLWithParameters:(NSString *)paramtersString
++ (NSURL *)mobilePayURLWithParameters:(NSString *)parametersString
 {
-    NSString *urlString = [NSString stringWithFormat:@"%@%@", kURL, paramtersString];
+    NSString *urlString = [NSString stringWithFormat:@"%@%@", kURL, parametersString];
     return [NSURL URLWithString:urlString];
 }
 
