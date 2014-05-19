@@ -35,6 +35,6 @@ Request payment with amount and phone number.
 + (void)requestPayment:(double)amount withPhoneNumber:(NSString *)number;
 ```
 
-## Apps using AFMobilePayRequestHandler
+## Apps using this class
 
 - [Owe](https://itunes.apple.com/dk/app/owe/id819490019?mt=8)
