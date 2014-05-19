@@ -34,3 +34,7 @@ Request payment with amount and phone number.
 ```objectivec
 + (void)requestPayment:(double)amount withPhoneNumber:(NSString *)number;
 ```
+
+## Apps using AFMobilePayRequestHandler
+
+- [Owe](https://itunes.apple.com/dk/app/owe/id819490019?mt=8)
