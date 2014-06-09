@@ -1,8 +1,8 @@
 AFMobilePayRequestHandler
 =======================
 
-![Pod version](https://cocoapod-badges.herokuapp.com/v/AFMobilePayRequestHandler/badge.png)
-![Pod platform](https://cocoapod-badges.herokuapp.com/p/AFMobilePayRequestHandler/badge.png)
+![Pod version](http://img.shields.io/cocoapods/v/AFMobilePayRequestHandler.svg?style=flat)
+![Pod platform](http://img.shields.io/cocoapods/p/AFMobilePayRequestHandler.svg?style=flat)
 
 Send and request money via [Danske Banks MobilePay app](http://www.danskebank.dk/da-dk/privat/selvbetjening/produkter/pages/mobilepay.aspx) 
 
