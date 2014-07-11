@@ -13,8 +13,7 @@ static NSString *const kURL = @"mobilepay://";
 
 + (NSURL *)mobilePayURLWithParameters:(NSString *)parametersString
 {
-    NSString *urlString = [NSString stringWithFormat:@"%@%@", kURL, parametersString];
-    return [NSURL URLWithString:urlString];
+    return [NSString stringWithFormat:@"%@%@", kURL, parametersString];
 }
 
 + (BOOL)isMobilePayInstalled
