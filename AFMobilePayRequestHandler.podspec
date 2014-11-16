@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage            = 'https://github.com/Fogh/AFMobilePayRequestHandler'
   s.license      = 'MIT'
   s.author       = { 'Anders Fogh Eriksen' => 'andfogh@gmail.com' }
-  s.source       = { :git => 'https://github.com/Fogh/AFMobilePayRequestHandler.git', :tag =>  '1.0.2'}
+  s.source       = { :git => 'https://github.com/Fogh/AFMobilePayRequestHandler.git', :tag => s.version.to_s }
   s.platform     = :ios, '6.1'
   s.source_files = 'AFMobilePayRequestHandler/*.{h,m}'
   s.requires_arc = true
