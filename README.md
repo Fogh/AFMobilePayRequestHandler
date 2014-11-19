@@ -38,3 +38,11 @@ Request payment with amount and phone number.
 ## Apps using this class
 
 - [Owe](https://itunes.apple.com/dk/app/owe/id819490019?mt=8&at=10lHcz)
+
+---
+
+<a href="http://Fogh.tip.me">
+  <img
+    alt="Tip Me With ChangeTip"
+    src="https://cdn.changetip.com/img/logos/tipme_square.png?1"/>
+</a>
