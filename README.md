@@ -39,6 +39,13 @@ Request payment with amount and phone number.
 
 - [Owe](https://itunes.apple.com/dk/app/owe/id819490019?mt=8&at=10lHcz)
 
+
+## Other iOS Open Source Projects by Me
+
+- [AFAddressBookManager](https://github.com/Fogh/AFAddressBookManager)
+- [AFWebViewController](https://github.com/Fogh/AFWebViewController)
+
+
 ---
 
 <a href="http://Fogh.tip.me">
