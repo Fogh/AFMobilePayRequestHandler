@@ -10,7 +10,7 @@ Send and request money via [Danske Banks MobilePay app](http://www.danskebank.dk
 
 This class makes use of MobilePays URL schemes.
 
-Requires iOS 6.1+ since that is what MobilePay requires.
+Requires iOS 7.0+ since that is what MobilePay 2.0.0 requires *(16/04/2015)*.
 
 __NB! Danske Bank has said that they don't official support the URL schemes yet.__
 
@@ -40,7 +40,7 @@ Request payment with amount and phone number.
 - [Owe](https://itunes.apple.com/dk/app/owe/id819490019?mt=8&at=10lHcz)
 
 
-## Other iOS Open Source Projects by Me
+## Other iOS open source projects by me
 
 - [AFAddressBookManager](https://github.com/Fogh/AFAddressBookManager)
 - [AFWebViewController](https://github.com/Fogh/AFWebViewController)
