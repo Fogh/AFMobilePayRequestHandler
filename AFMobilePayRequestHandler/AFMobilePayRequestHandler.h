@@ -2,7 +2,7 @@
 //  AFMobilePayRequestHandler.h
 //
 //  Created by Anders Fogh Eriksen on 17/10/13.
-//  Copyright (c) 2013 Anders Fogh Eriksen. All rights reserved.
+//  Copyright (c) 2013-2015 Anders Fogh Eriksen. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
