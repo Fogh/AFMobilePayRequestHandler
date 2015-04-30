@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'AFMobilePayRequestHandler'
-  s.version      = '1.0.2'
+  s.version      = '1.0.3'
   s.summary      = 'Send and request money via Danske Banks MobilePay app.'
   s.homepage            = 'https://github.com/Fogh/AFMobilePayRequestHandler'
   s.license      = 'MIT'
