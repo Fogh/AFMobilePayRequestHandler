@@ -10,4 +10,5 @@ Pod::Spec.new do |s|
   s.source_files = 'AFMobilePayRequestHandler/*.{h,m}'
   s.requires_arc = true
   s.social_media_url = 'https://twitter.com/f0gh'
+  s.deprecated   = true
 end
