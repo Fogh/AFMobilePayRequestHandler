@@ -8,11 +8,7 @@ Send and request money via [Danske Banks MobilePay app](http://www.danskebank.dk
 
 [App Store link](https://itunes.apple.com/dk/app/mobilepay-by-danske-bank/id624499138?at=10lHcz)
 
-This class makes use of MobilePays URL schemes.
-
-Requires iOS 7.0+ since that is what MobilePay 2.0.0 requires *(16/04/2015)*.
-
-__NB! Danske Bank has said that they don't official support the URL schemes yet.__
+**The URL schemes used for this project are no longer available, therefore this project is not working anymore!** 
 
 
 ## Methods
