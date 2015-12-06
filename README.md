@@ -4,31 +4,28 @@ AFMobilePayRequestHandler
 ![Pod version](http://img.shields.io/cocoapods/v/AFMobilePayRequestHandler.svg?style=flat)
 ![Pod platform](http://img.shields.io/cocoapods/p/AFMobilePayRequestHandler.svg?style=flat)
 
-Send and request money via [Danske Banks MobilePay app](http://www.danskebank.dk/da-dk/privat/selvbetjening/produkter/pages/mobilepay.aspx) 
+Send and request money via [Danske Banks MobilePay app](http://www.danskebank.dk/da-dk/privat/selvbetjening/produkter/pages/mobilepay.aspx)
 
 [App Store link](https://itunes.apple.com/dk/app/mobilepay-by-danske-bank/id624499138?at=10lHcz)
-
-**The URL schemes used for this project are no longer available, therefore this project is not working anymore!** 
-
 
 ## Methods
 
 Check if MobilePay is installed on device.
 
-```objectivec
-+ (BOOL)isMobilePayInstalled;
+```swift
+AFMobilePayRequestHandler.isMobilePayInstalled
 ```
 
 Send payment with amount and phone number.
 
-```objectivec
-+ (void)sendPayment:(double)amount withPhoneNumber:(NSString *)number;
+```swift
+public class func sendPayment(amount: Double, withPhoneNumber phoneNumber: String)
 ```
 
 Request payment with amount and phone number.
 
-```objectivec
-+ (void)requestPayment:(double)amount withPhoneNumber:(NSString *)number;
+```swift
+public class func requestPayment(amount: Double, withPhoneNumber phoneNumber: String)
 ```
 
 ## Apps using this class
