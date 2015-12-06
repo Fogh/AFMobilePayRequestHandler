@@ -8,6 +8,8 @@ Send and request money via [Danske Banks MobilePay app](http://www.danskebank.dk
 
 [App Store link](https://itunes.apple.com/dk/app/mobilepay-by-danske-bank/id624499138?at=10lHcz)
 
+If you want to support iOS 7 or use the Objective-C version of this code, just use the 1.0.4 tag.
+
 ## Methods
 
 Check if MobilePay is installed on device.
