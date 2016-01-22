@@ -3,7 +3,7 @@
 //  
 //
 //  Created by Anders Eriksen on 06/12/2015.
-//  Copyright (c) 2015 Anders Fogh Eriksen. All rights reserved.
+//  Copyright (c) 2016 Anders Fogh Eriksen. All rights reserved.
 //
 
 import Foundation
